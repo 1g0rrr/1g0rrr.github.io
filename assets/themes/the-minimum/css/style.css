@@ -215,12 +215,13 @@ pre {
 .the-header .logo {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
+  padding: 0;
 }
 .the-header .logo a:visited {
   color: #2d2d2d;
 }
 .the-header .nav-global {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 .the-header .nav-global .forkme {
   position: relative;
@@ -232,7 +233,8 @@ pre {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #BADA55;
+  /*background-color: #BADA55;*/        /* Тут выставляется цвет полоски для хэдера */
+  background-color: #FFA500;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
@@ -587,10 +589,11 @@ pre {
   float: left;
 }
 .ie .the-header .nav-global {
-  margin-top: 50px;
-  text-align: right;
+  /*margin-top: 50px;*/
+  /*text-align: right;*/
   width: 26.25em;
-  float: right;
+  /*float: right;*/
+    margin: 0 auto;
 }
 .ie .unit-article .unit-head-inner,
 .ie .unit-article .entry-content,
@@ -634,7 +637,8 @@ pre {
 }
 .ie .unit-article .unit-head-inner .meta {
   width: 20.625em;
-  float: right;
+  /*float: right;*/
+  margin: 0 auto;
 }
 .ie .layout-page .unit-body .unit-body-inner {
   width: 43.125em;
@@ -680,6 +684,7 @@ pre {
     word-spacing: -0.43em;
     list-style: none;
     padding-left: 0;
+      padding-right: 0;
   }
   .the-header .nav-global .home:after {
     margin-left: 16px;
@@ -694,9 +699,12 @@ pre {
     margin-right: 16px;
     word-spacing: normal;
     vertical-align: middle;
+      /*background-color: #eeeeee;*/
+      padding: 0 20px;                     /* Тут редактируется список (главное меню )*/
   }
   .the-header .nav-global li:last-child {
     margin-right: 0;
+    padding-right: 0px;
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
@@ -734,7 +742,8 @@ pre {
     margin-bottom: 0;
     text-align: right;
     width: 20.625em;
-    float: right;
+    /*float: right;*/
+      margin: 0 auto;
   }
   .layout-page .unit-body .unit-body-inner {
     width: 43.125em;
@@ -744,6 +753,8 @@ pre {
   }
   .layout-page .unit-body .article-list .meta {
     margin-bottom: 0;
+	margin-top: 0;
+	padding-top: 0;
     text-align: right;
     width: 20.625em;
     float: right;
@@ -758,16 +769,24 @@ pre {
 @media only screen and (min-width: 1280px) {
   .the-header .unit-inner {
     width: 60em;
+      margin: 0 auto;
+      margin-top: 20px;  /* Тут я могу редактировать отступ от картинки до моего главного меню */
+      margin-bottom: 10px;
   }
   .the-header .logo {
-    width: 26.25em;
-    float: left;
+ /*   width: 26.25em;*/
+/*    float: left;*/
+	margin:0 auto;
+	padding:0;                /* тут редактируется положение логтипа */
   }
   .the-header .nav-global {
     margin-top: 21px;
-    text-align: right;
-    width: 26.25em;
-    float: right;
+    text-align:center;
+    /*width: 26.25em;*/
+    /*float: right;*/
+      margin: 0 auto;  /* Тут редактируется положение моего главного меню */
+     font-size: 24px;
+      /*word-spacing: 10;*/
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
