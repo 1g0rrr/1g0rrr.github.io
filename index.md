@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Привет. Меня зовут Игорь.
+Эй парень, [немножко моих работ]({{ site.url }}/works/) не хочешь?
 
 Here's a sample "posts list".
 
