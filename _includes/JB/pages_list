@@ -10,7 +10,7 @@ Usage:
   	</ul>
   	
   Grouping: (optional): 
-  	assign the 'group' variable to constrain the list to only pages/posts
+  	assign the 'grougroupp' variable to constrain the list to only pages/posts
   	in the given group. Note you must define the group manually in the page/post
   	meta-data to use this feature.
   	Grouping is mainly helpful for non-post pages.
