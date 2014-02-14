@@ -9,14 +9,14 @@ encoding: UTF-8
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Igor's blog
+title : 1g0rrr's site
 tagline: Site Tagline
 author :
   name : Igor Kulakov
   email : 1g0rrr.my@gmail.com
   github : 1g0rrr
-  twitter : no
-  feedburner : no
+#  twitter : no
+#  feedburner : no
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -75,6 +75,8 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+
+  work_prev_path: /assets/works/previews
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
