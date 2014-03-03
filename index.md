@@ -34,7 +34,7 @@ tagline: Supporting tagline
 <!--
 Надо будет вынести такие переменны в отдельное место, чтобы я всегда знал где их можно поменять.
 -->
-<!--
+
 Here's a sample "posts list".
 
 <ul class="posts">
@@ -42,5 +42,3 @@ Here's a sample "posts list".
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
--->
