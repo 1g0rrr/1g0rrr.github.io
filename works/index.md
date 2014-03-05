@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Works
-tagline: Supporting tagline
 group: navigation
 ---
 
