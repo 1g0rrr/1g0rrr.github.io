@@ -4,33 +4,47 @@ title: Welcome!
 ---
 {% include JB/setup %}
 
-Эй пареньdddd, [немножко моих работ]({{ site.url }}/works/) не хочешь? Привет. Меня зовут Игорь.
-ыфвЯживу в городе Донецк, Украина.  Около 5 лет я профессионально занимаюсь разработкой приложений и игр.
+####Hello!
+![That's me]({{ site.url }}/assets/about/small_photo.jpg)
+<br> <br>
+My name is Igor. I'm 26. I live in Donetsk, Ukraine.
+After graduation, I developed games and applications for social networks for over 5 years.
+Now I'm also a freelancer, so you can [contact]({{ site.url }}/contacts.html) me if you need any help.
+
+You can check out my works in the [Portfolio]({{ site.url }}/works/)
+
+<br>
+####Resume/C.V.
 
 
-###Professional skills:
+5 years of online, mobile games and social apps development experience.
+
+* Development of flash online games from begining to end (programming, game-design, management of technical, art and music specialists, etc)
+* Development of iOS & Android games based on AIR technology (programming, game-design, management)
+* Development of social network apps from begining to end (Idea, Server side, front end, UI, management etc. Max unique users in one app - 1.3 million / day )
+
+<br>
+#####My advantages
+I got used to pay attention to such aspects as, convenience of use, appearance, gameability and the atmosphere (if it is a game)
+I got used to think of all application as a whole and to think of that how people will use it.
+I made almost all of the projects for myself and therefore I will do your project as my own too.
+
+<br>
+#####Professional skills:
 * AS3 & Adobe Flash
 * AIR
 * Unity (C#)
-* php
-* Command Leading
+* php & highload
 * Game design
-* Art & Usbility (base level)
+* Art & Usability
+* Command Leading
 
+<br>
+#####Education
 
-###Education
-
-Donetsk Art School
+* Donetsk Art School<br>
 (half year)
 
-Donetsk National University
-Specialist in Applied Mathematics
-2004 - 2009
-
-<!--
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
--->
+* Donetsk National University<br>
+Specialist in Applied Mathematics<br>
+(2004 - 2009)

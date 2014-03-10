@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-group: navigation
 ---
 {% include JB/setup %}
+
 
 Привет. Меня зовут Игорь
 

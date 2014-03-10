@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Contacts!
+title: Contacts
+group: navigation
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
+My Elance profile:
+[https://www.elance.com/s/1g0rrr/](https://www.elance.com/s/1g0rrr/) (Igor K.)
 
-Привет. Меня зовут Игорь и я индивидуальный разработчик игр. Я создаю игры, а также занимаюсь фрилансом.
+Skype: [igorklal](skype:igorklal?chat) (chat on a click)
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+E-mail: [1g0rrr.my@gmail.com](mailto:1g0rrr.my@gmail.com)
