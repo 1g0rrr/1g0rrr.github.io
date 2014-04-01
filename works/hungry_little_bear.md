@@ -6,19 +6,22 @@ tags : [work, games]
 ---
 {% include JB/setup %}
 
-This cute little bear hasn’t eaten since last Friday, and we all understand that he is very hungry.
-But who of us will be able to help him to eat to satiety? These juicy fruits are enticing his eyes and make him even
-more hungry. Ah, if only he could taste them!..
+A little bear named Bobby has a dream. He wants to cook a fruit soup. Help the little bear to have a bite and to
+collect all ingredients for the fruit soup. Use the elements of the environment to achieve your goal. Be careful
+and do not eat the chilli peppers – they are very hot. Watch the fruits attentively, otherwise they can be eaten
+by hungry pigs. Collect the stars to earn more points. Good luck!
 
 ---
 
 You can [play this game online](http://www.gamezhero.com/games/hungrylittlebear),
-[in AppStore](https://itunes.apple.com/app/hungry-little-bear-free/id815555080?mt=8) or in
-[in Google Play]( https://play.google.com/store/apps/details?id=air.com.rightfusion.hungrylittlebeafreer)
+[in AppStore](https://itunes.apple.com/us/app/hungry-little-bear/id814413325 ) or in
+[in Google Play]( https://play.google.com/store/apps/details?id=air.com.rightfusion.hungrylittlebear )
 
 ---
 
 ####Screens:
+![My helpful screenshot]({{ site.url }}/assets/works/HBB0.png)
+
 ![My helpful screenshot]({{ site.url }}/assets/works/HBB1.png)
 
 ![My helpful screenshot]({{ site.url }}/assets/works/HBB2.png)

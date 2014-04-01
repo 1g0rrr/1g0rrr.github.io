@@ -3,7 +3,8 @@ layout: page
 title: Welcome!
 ---
 {% include JB/setup %}
-
+#### [Go to the portfolio right now! ]({{ site.url }}/works/)
+---
 ####Hello!
 ![That's me]({{ site.url }}/assets/about/small_photo.jpg)
 <br> <br>
