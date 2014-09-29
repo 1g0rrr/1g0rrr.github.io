@@ -9,7 +9,7 @@ markdown: kramdown
 redcarpet:
   extensions: []
 
-languages: ["ru", "en"]
+languages: []
 
 kramdown:
   parse_block_html: false
@@ -22,7 +22,7 @@ kramdown:
 title : 1g0rrr's site
 tagline: Site Tagline
 author :
-  name : Igor Kulakov
+  name : Igor K
   email : 1g0rrr.my@gmail.com
   github : 1g0rrr
 #  twitter : no
