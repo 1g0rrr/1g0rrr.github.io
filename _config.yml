@@ -9,6 +9,8 @@ markdown: kramdown
 redcarpet:
   extensions: []
 
+languages: ["ru", "en"]
+
 kramdown:
   parse_block_html: false
   fenced_code_blocks: false

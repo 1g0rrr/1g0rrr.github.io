@@ -2,24 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__index.md" afterPath="$PROJECT_DIR$/__index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts.md" afterPath="$PROJECT_DIR$/contacts.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/twitter/default.html" afterPath="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/dream_symphony.md" afterPath="$PROJECT_DIR$/works/dream_symphony.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/hungry_little_bear.md" afterPath="$PROJECT_DIR$/works/hungry_little_bear.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/JB/pages_list" afterPath="$PROJECT_DIR$/_includes/JB/pages_list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rss.xml" afterPath="$PROJECT_DIR$/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/save_ukraine.md" afterPath="$PROJECT_DIR$/works/save_ukraine.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411975260970" ignored="false" />
+    <file path="/Dummy.txt" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412003281578" ignored="false" />
     <file path="/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392199390153" ignored="false" />
-    <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392241440933" ignored="false" />
+    <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995849361" ignored="false" />
     <file path="/page.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392286412252" ignored="false" />
-    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411976048754" ignored="false" />
+    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015444960" ignored="false" />
     <file path="/about.rb" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238428870" ignored="false" />
     <file path="/about.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238819936" ignored="false" />
-    <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411975319582" ignored="false" />
+    <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995856995" ignored="false" />
     <file path="/works.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392241466004" ignored="false" />
     <file path="/contacts.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1394478063748" ignored="false" />
     <file path="/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392281363293" ignored="false" />
     <file path="/fragile_vase.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392310558633" ignored="false" />
     <file path="/game.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392287752780" ignored="false" />
-    <file path="/a.dummy" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411968962754" ignored="false" />
+    <file path="/a.dummy" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412010788143" ignored="false" />
     <file path="/settings.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392290533596" ignored="false" />
     <file path="/spunky_vs_aliens.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392311075042" ignored="false" />
     <file path="/apple_cannon.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392402021334" ignored="false" />
@@ -27,13 +39,19 @@
     <file path="/brave_boy.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392408239556" ignored="false" />
     <file path="/cannon_hero.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392408473607" ignored="false" />
     <file path="/captain_zorro.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392409623547" ignored="false" />
-    <file path="/dream_symphony.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392410314586" ignored="false" />
+    <file path="/dream_symphony.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014699436" ignored="false" />
     <file path="/hungry_bear.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392410611893" ignored="false" />
     <file path="/a.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1393858241213" ignored="false" />
-    <file path="/hungry_little_bear.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1394485287510" ignored="false" />
-    <file path="/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411968969462" ignored="false" />
-    <file path="/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411968975197" ignored="false" />
+    <file path="/hungry_little_bear.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014770122" ignored="false" />
+    <file path="/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411994085024" ignored="false" />
+    <file path="/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411994091648" ignored="false" />
     <file path="$PROJECT_DIR$/_site/assets/themes/the-minimum/css/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411972028096" ignored="false" />
+    <file path="/members.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411992725862" ignored="false" />
+    <file path="/en.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411994063073" ignored="false" />
+    <file path="/ru.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995880878" ignored="false" />
+    <file path="/pages_list" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412010785017" ignored="false" />
+    <file path="/surprize.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014575341" ignored="false" />
+    <file path="/save_ukraine.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014857512" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +71,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/themes/the-minimum/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="35" selection-start="886" selection-end="886" vertical-scroll-proportion="-15.692307">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="19" selection-start="794" selection-end="794" vertical-scroll-proportion="0.4813137">
+            <state line="154" column="0" selection-start="3311" selection-end="3311" vertical-scroll-proportion="0.8195402">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="25" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+            <state line="43" column="9" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacts.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contacts.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hungry_little_bear.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/hungry_little_bear.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="save_ukraine.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="108" selection-end="572" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="surprize.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/works/surprize.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="3" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -98,21 +143,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/works/fragile_vase.md" />
-        <option value="$PROJECT_DIR$/works/hungry_bear.md" />
-        <option value="$PROJECT_DIR$/works/brave_boy.md" />
-        <option value="$PROJECT_DIR$/works/spunky_vs_aliens.md" />
-        <option value="$PROJECT_DIR$/archive.html" />
-        <option value="$PROJECT_DIR$/pages.html" />
-        <option value="$PROJECT_DIR$/categories.html" />
-        <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/contacts.md" />
-        <option value="$PROJECT_DIR$/works/hungry_little_bear.md" />
-        <option value="$PROJECT_DIR$/_site/assets/themes/the-minimum/css/style.css" />
+        <option value="$PROJECT_DIR$/_i18n/en.yml" />
         <option value="$PROJECT_DIR$/atom.xml" />
         <option value="$PROJECT_DIR$/rss.xml" />
-        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_i18n/ru.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/JB/pages_list" />
+        <option value="$PROJECT_DIR$/__index.md" />
+        <option value="$PROJECT_DIR$/_includes/themes/twitter/default.html" />
+        <option value="$PROJECT_DIR$/works/surprize.md" />
+        <option value="$PROJECT_DIR$/works/dream_symphony.md" />
+        <option value="$PROJECT_DIR$/works/hungry_little_bear.md" />
+        <option value="$PROJECT_DIR$/works/save_ukraine.md" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/contacts.md" />
         <option value="$PROJECT_DIR$/works/index.md" />
       </list>
     </option>
@@ -186,6 +231,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,9 +264,150 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_i18n" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_drafts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1g0rrr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,11 +435,11 @@
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\_includes\themes\the-minimum" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Work\1g0rrr.github.io\assets\works" />
+      <recent name="D:\Dropbox\Work\1g0rrr.github.io\assets\works\previews" />
+      <recent name="D:\Dropbox\Work\1g0rrr.github.io" />
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\_includes\themes\the-minimum" />
       <recent name="D:\Dropbox\Work\1g0rrr.github.io\_layouts" />
-      <recent name="D:\Dropbox\Work\1g0rrr.github.io\works" />
-      <recent name="D:\Dropbox\Work\1g0rrr.github.io" />
-      <recent name="D:\Dropbox\Work\1g0rrr.github.io\_posts\blog" />
     </key>
   </component>
   <component name="RunManager">
@@ -269,6 +456,13 @@
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -300,13 +494,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1634" height="1066" extended-state="0" />
+    <frame x="-8" y="-8" width="1634" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.9956522" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25141066" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25329155" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -315,7 +510,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.9956522" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -382,94 +576,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/works/apple_cannon.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="55" selection-end="55" vertical-scroll-proportion="0.1218638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/captain_zorro.md">
+    <entry file="file://$PROJECT_DIR$/_includes/JB/categories_list">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="9" selection-start="63" selection-end="88" vertical-scroll-proportion="0.0" />
+        <state line="14" column="68" selection-start="582" selection-end="582" vertical-scroll-proportion="0.40753424" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/hungry_little_bear.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="466" selection-end="466" vertical-scroll-proportion="0.21693735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/assets/themes/the-minimum/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="194" column="3" selection-start="4221" selection-end="4221" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+        <state line="7" column="18" selection-start="243" selection-end="251" vertical-scroll-proportion="0.13476783">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../saveukraine.github.io/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_i18n/it.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="15" selection-start="3886" selection-end="3895" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rss.xml">
+    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+        <state line="33" column="37" selection-start="902" selection-end="902" vertical-scroll-proportion="0.5635939">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/surprize.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="3" selection-start="833" selection-end="833" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/twitter/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1923" selection-end="1923" vertical-scroll-proportion="0.5834306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/pages_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="303" selection-end="303" vertical-scroll-proportion="0.21177803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.15977012">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/dream_symphony.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="20" selection-start="671" selection-end="671" vertical-scroll-proportion="0.57757646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="108" selection-end="572" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/hungry_little_bear.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="79" selection-start="452" selection-end="452" vertical-scroll-proportion="0.37842464" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/works/HungryBear2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/the-minimum/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="18.923077" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/the-minimum/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/works/HungryBear.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/the-minimum/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="34" selection-start="489" selection-end="489" vertical-scroll-proportion="0.2975496">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/the-minimum/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="35" selection-start="886" selection-end="886" vertical-scroll-proportion="-15.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+        <state line="43" column="9" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/works/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="794" selection-end="794" vertical-scroll-proportion="0.4813137">
+        <state line="154" column="0" selection-start="3311" selection-end="3311" vertical-scroll-proportion="0.8195402">
           <folding />
         </state>
       </provider>

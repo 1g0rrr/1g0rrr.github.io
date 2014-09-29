@@ -11,11 +11,34 @@ collect all ingredients for the fruit soup. Use the elements of the environment 
 and do not eat the chilli peppers – they are very hot. Watch the fruits attentively, otherwise they can be eaten
 by hungry pigs. Collect the stars to earn more points. Good luck!
 
+My part:
+
+* Idea
+
+* Management
+
+* Game-design
+
+* Programming
+
+
+Technology:
+
+* Adobe AIR
+
+* Starling
+
+* Nape
+
+* Citrus Engine
+
 ---
 
-You can [play this game online](http://www.gamezhero.com/games/hungrylittlebear),
-[in AppStore](https://itunes.apple.com/us/app/hungry-little-bear/id814413325 ) or in
-[in Google Play]( https://play.google.com/store/apps/details?id=air.com.rightfusion.hungrylittlebear )
+Online: [Play online](http://www.gamezhero.com/games/hungrylittlebear)
+
+AppStore: [Go to AppStore](https://itunes.apple.com/us/app/hungry-little-bear/id814413325 )
+
+Android: [Go to Google Play]( https://play.google.com/store/apps/details?id=air.com.rightfusion.hungrylittlebear )
 
 ---
 

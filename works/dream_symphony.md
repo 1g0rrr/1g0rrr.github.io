@@ -6,12 +6,29 @@ tags : [work, games]
 ---
 {% include JB/setup %}
 
-It’s a music game with 30 types of animals, 4 completely different locations, a lot of sounds and 4 epic ingame
-tracks. Game change a color and music while you playing. Check it!
+What happens when composers fall asleep? They conduct Dream Symphonies.
+In this dreamlike adventure game, you need to make the most of your trampoline prowess. Bounce off the back
+of sheep to hit perfect pitch…and collect musical notes along your journey. Get a boost from the floating bubbles,
+but beware of dangerous red bubbles, which can wake you up. Perfect your aim, because
+there’s no way back down: the only way is up.
+
+My part:
+
+* Half of the Idea
+
+* Half of the game-design
+
+* Programming
+
+Technology:
+
+* Adobe Flash
+
+* Box2D
 
 ---
 
-You can [play this game online](http://www.kongregate.com/games/1g0rrr/dream-symphony)
+Online: [Play online](http://www.kongregate.com/games/1g0rrr/dream-symphony)
 
 ---
 
