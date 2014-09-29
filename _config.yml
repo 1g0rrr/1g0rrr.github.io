@@ -3,8 +3,16 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
-encoding: UTF-8
+highlighter: null
+
+markdown: kramdown
+redcarpet:
+  extensions: []
+
+kramdown:
+  parse_block_html: false
+  fenced_code_blocks: false
+  html_to_native: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -118,7 +126,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : "plusone"
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
