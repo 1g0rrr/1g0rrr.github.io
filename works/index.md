@@ -34,10 +34,10 @@ FragileVasePreview.png
 
 [ ![ ]({{ site.JB.work_prev_path }}/SaveUkrainePreview.png) ](/works/save_ukraine.html)
 
-Your goal is to defend the cozy Ukrainian house (or "khata" in ukrainian) from the invasion of unidentified green angry
-soldiers. As it happens the only weapon you have is a crop of fresh ripe pumpkins. Nevertheless in good hands this could
-be a very effective measure against the attackers - a precise shot can neutralize one or many bastards or even one armed SUV.
-Find the best tactic that suits you and with time you could make 100 000 points to win the game !
+The game is called Save Ukraine and the story of the game is very topical. Unidentified horde of armed green men
+suddenly attacked a cozy Ukrainian house (or “khata” in local). The inhabitants were not ready for such events and
+the only weapon to defend their homeland they had was just a crop of old pumpkins. Nevertheless, a good and precise
+hit of such “shell” can neutralize few of those green bastards or even an armored truck.
 
 My part:
 

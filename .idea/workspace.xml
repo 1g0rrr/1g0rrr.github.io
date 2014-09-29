@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/save_ukraine.md" afterPath="$PROJECT_DIR$/works/save_ukraine.md" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,30 +41,30 @@
     <file path="/pages_list" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412010785017" ignored="false" />
     <file path="/surprize.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014575341" ignored="false" />
     <file path="/save_ukraine.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014857512" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/hungry_little_bear.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/fragile_vase.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/contacts.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/cannon_hero.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/captain_zorro.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/pages.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/brave_boy.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/hungry_bear.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/spunky_vs_aliens.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/dream_symphony.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/blog/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/save_ukraine.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/categories.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/tags.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/archive.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-inasdasdasdtroduction/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/about.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-introduction/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/back_to_alien_party.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/works/apple_cannon.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015652363" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/hungry_little_bear.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/fragile_vase.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/contacts.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/cannon_hero.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/captain_zorro.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/pages.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/brave_boy.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/hungry_bear.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/spunky_vs_aliens.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/dream_symphony.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/blog/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/save_ukraine.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/categories.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/tags.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/archive.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-inasdasdasdtroduction/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/about.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-introduction/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/back_to_alien_party.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/works/apple_cannon.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +84,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="0" selection-start="3311" selection-end="3311" vertical-scroll-proportion="0.0">
+            <state line="39" column="0" selection-start="996" selection-end="996" vertical-scroll-proportion="0.75084937">
               <folding />
             </state>
           </provider>
@@ -96,15 +97,6 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
             <state line="43" column="9" selection-start="1521" selection-end="1521" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="12" selection-start="293" selection-end="293" vertical-scroll-proportion="0.21177803">
               <folding />
             </state>
           </provider>
@@ -131,7 +123,7 @@
       <file leaf-file-name="save_ukraine.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="108" selection-end="572" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -175,11 +167,11 @@
         <option value="$PROJECT_DIR$/works/surprize.md" />
         <option value="$PROJECT_DIR$/works/dream_symphony.md" />
         <option value="$PROJECT_DIR$/works/hungry_little_bear.md" />
-        <option value="$PROJECT_DIR$/works/save_ukraine.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/contacts.md" />
-        <option value="$PROJECT_DIR$/works/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/works/save_ukraine.md" />
+        <option value="$PROJECT_DIR$/works/index.md" />
       </list>
     </option>
   </component>
@@ -661,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="108" selection-end="572" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contacts.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
@@ -682,9 +667,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/index.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="0" selection-start="3311" selection-end="3311" vertical-scroll-proportion="0.0">
+        <state line="11" column="12" selection-start="293" selection-end="293" vertical-scroll-proportion="0.21177803">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -696,9 +688,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/works/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="12" selection-start="293" selection-end="293" vertical-scroll-proportion="0.21177803">
+        <state line="39" column="0" selection-start="996" selection-end="996" vertical-scroll-proportion="0.75084937">
           <folding />
         </state>
       </provider>
