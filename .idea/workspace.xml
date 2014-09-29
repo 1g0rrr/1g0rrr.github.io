@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
@@ -12,7 +10,7 @@
     <file path="/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392199390153" ignored="false" />
     <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392241440933" ignored="false" />
     <file path="/page.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392286412252" ignored="false" />
-    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411975302015" ignored="false" />
+    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411976048754" ignored="false" />
     <file path="/about.rb" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238428870" ignored="false" />
     <file path="/about.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238819936" ignored="false" />
     <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411975319582" ignored="false" />
@@ -67,7 +65,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="136" selection-start="380" selection-end="380" vertical-scroll-proportion="0.3657984">
+            <state line="36" column="19" selection-start="794" selection-end="794" vertical-scroll-proportion="0.4813137">
               <folding />
             </state>
           </provider>
@@ -471,7 +469,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="136" selection-start="380" selection-end="380" vertical-scroll-proportion="0.3657984">
+        <state line="36" column="19" selection-start="794" selection-end="794" vertical-scroll-proportion="0.4813137">
           <folding />
         </state>
       </provider>

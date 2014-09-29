@@ -26,9 +26,15 @@ CaptainZorroPreview.png
 FragileVasePreview.png
 -->
 
+[ ![ ]({{ site.JB.work_prev_path }}/SaveUkrainePreview.png) ](/works/save_ukraine.html)
+[Save Ukraine](/works/save_ukraine.html)
+*(iOS, Android)*
+
+---
+
 [ ![ ]({{ site.JB.work_prev_path }}/HBBPreview.png) ](/works/hungry_little_bear.html)
 [Hungry Little Bear](/works/hungry_little_bear.html)
-*(flash online, iOs, Android)*
+*(flash online, iOS, Android)*
 
 ---
 
@@ -76,7 +82,7 @@ FragileVasePreview.png
 			 
 [ ![ ]({{ site.JB.work_prev_path }}/CaptainZorroPreview.png) ]({{ site.url }}/works/captain_zorro.html)
 [Captain Zorro: The Secret Lab]({{ site.url }}/works/captain_zorro.html)
-*(flash online, iOs, Android)*
+*(flash online, iOS, Android)*
 
 ---
 			 
