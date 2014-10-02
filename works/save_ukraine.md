@@ -25,7 +25,21 @@ Technology:
 
 * Unity3D
 
-* NGUI
+Features:
+
+* NGUI Interface
+
+* In-App purchase
+
+* Leaderboard and achievements
+
+* Rate Box
+
+* Social sharing
+
+* Internationalization, 3 languages.
+
+* Automatic switching between iOS and Android versions in Unity editor, which have significant differences.
 
 ---
 
