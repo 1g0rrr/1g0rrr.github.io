@@ -12,8 +12,8 @@ title: Welcome!
 ![That's me]({{ site.url }}/assets/about/small_photo.jpg)
 <br> <br>
 My name is Igor. I'm born in 1987, and I live in Kiev, Ukraine.
-After graduation, I developed games and applications for social networks for over 7+ years.
-Now I'm also a freelancer, so you can [contact]({{ site.url }}/contacts.html) me if you need my help.
+After graduation, I developed games and applications for social networks, online, mobile devices for over 7+ years.
+You can [contact]({{ site.url }}/contacts.html) me if you need my help.
 
 You can check out my works in the [Portfolio]({{ site.url }}/works/)
 
