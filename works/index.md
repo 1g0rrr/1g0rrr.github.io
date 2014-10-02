@@ -67,7 +67,7 @@ Features:
 
 * Internationalization, 3 languages.
 
-* Automatic switching between iOS and Android versions in Unity editor
+* Automatic switching between iOS and Android versions in Unity editor, which have a significant differences.
 
 ---
 
