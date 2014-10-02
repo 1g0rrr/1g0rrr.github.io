@@ -41,6 +41,8 @@ Features:
 
 * Automatic switching between iOS and Android versions in Unity editor, which have a significant differences.
 
+* AdMob banners
+
 ---
 
 Android [Go to Google Play]( https://play.google.com/store/apps/details?id=com.xdapps.su )

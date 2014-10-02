@@ -69,6 +69,8 @@ Features:
 
 * Automatic switching between iOS and Android versions in Unity editor, which have a significant differences.
 
+* AdMob banners
+
 ---
 
 ####[Hungry Little Bear *(flash online, iOS, Android)*](/works/hungry_little_bear.html)

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/save_ukraine.md" afterPath="$PROJECT_DIR$/works/save_ukraine.md" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,7 +11,7 @@
     <file path="/style.css" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392199390153" ignored="false" />
     <file path="/default.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995849361" ignored="false" />
     <file path="/page.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392286412252" ignored="false" />
-    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235470455" ignored="false" />
+    <file path="/index.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235771484" ignored="false" />
     <file path="/about.rb" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238428870" ignored="false" />
     <file path="/about.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1392238819936" ignored="false" />
     <file path="/_config.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995856995" ignored="false" />
@@ -62,8 +63,8 @@
     <file path="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-introduction/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <file path="$PROJECT_DIR$/_site/works/back_to_alien_party.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <file path="$PROJECT_DIR$/_site/works/apple_cannon.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235711158" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235711158" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235739545" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/atom.xml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235739545" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +84,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="109" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.8827586">
+            <state line="71" column="15" selection-start="1439" selection-end="1446" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="save_ukraine.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="15" selection-start="902" selection-end="902" vertical-scroll-proportion="0.8278596">
               <folding />
             </state>
           </provider>
@@ -105,15 +115,6 @@
         <entry file="file://$PROJECT_DIR$/works/hungry_little_bear.md">
           <provider selected="true" editor-type-id="text-editor">
             <state line="39" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="save_ukraine.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="776" selection-end="885" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -160,8 +161,8 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/contacts.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/works/save_ukraine.md" />
         <option value="$PROJECT_DIR$/works/index.md" />
+        <option value="$PROJECT_DIR$/works/save_ukraine.md" />
       </list>
     </option>
   </component>
@@ -657,16 +658,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
+    <entry file="file://$PROJECT_DIR$/works/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="776" selection-end="885" vertical-scroll-proportion="0.0">
+        <state line="71" column="15" selection-start="1439" selection-end="1446" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/index.md">
+    <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="109" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.8827586">
+        <state line="43" column="15" selection-start="902" selection-end="902" vertical-scroll-proportion="0.8278596">
           <folding />
         </state>
       </provider>
