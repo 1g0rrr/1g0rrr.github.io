@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/save_ukraine.md" afterPath="$PROJECT_DIR$/works/save_ukraine.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +39,7 @@
     <file path="/ru.yml" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1411995880878" ignored="false" />
     <file path="/pages_list" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412010785017" ignored="false" />
     <file path="/surprize.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412014575341" ignored="false" />
-    <file path="/save_ukraine.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235565314" ignored="false" />
+    <file path="/save_ukraine.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412235678889" ignored="false" />
     <file path="$PROJECT_DIR$/_site/works/hungry_little_bear.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <file path="$PROJECT_DIR$/_site/works/fragile_vase.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <file path="$PROJECT_DIR$/_site/contacts.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
@@ -115,7 +113,7 @@
       <file leaf-file-name="save_ukraine.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="70" selection-start="831" selection-end="847" vertical-scroll-proportion="0.7893545">
+            <state line="41" column="85" selection-start="861" selection-end="861" vertical-scroll-proportion="0.7893545">
               <folding />
             </state>
           </provider>
@@ -668,7 +666,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works/save_ukraine.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="70" selection-start="831" selection-end="847" vertical-scroll-proportion="0.7893545">
+        <state line="41" column="85" selection-start="861" selection-end="861" vertical-scroll-proportion="0.7893545">
           <folding />
         </state>
       </provider>
