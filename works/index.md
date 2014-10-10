@@ -26,50 +26,92 @@ CaptainZorroPreview.png
 FragileVasePreview.png
 -->
 
-### Favorites:
+---
 
-<br>
+### Unity:
 
-####[Save Ukraine *(iOS, Android)*](/works/save_ukraine.html)
+---
 
-[ ![ ]({{ site.JB.work_prev_path }}/SaveUkrainePreview.png) ](/works/save_ukraine.html)
+####[Undefined Attack *(Unity, iOS, Android)*](/works/undefined_attack.html)
 
-The game is called Save Ukraine and the story of the game is very topical. Unidentified horde of armed green men
-suddenly attacked a cozy Ukrainian house (or “khata” in local). The inhabitants were not ready for such events and
-the only weapon to defend their homeland they had was just a crop of old pumpkins. Nevertheless, a good and precise
-hit of such “shell” can neutralize few of those green bastards or even an armored truck.
+[ ![ ]({{ site.JB.work_prev_path }}/UndefinedAttackPreview.jpg) ](/works/undefined_attack.html)
 
-My part:
 
-* Idea
+**My part:**
 
-* Management
+* Idea, Management, Game-design, Programming
 
-* Game-design
+**Technology:**
 
-* Programming
+* Unity, NGUI
 
-Technology:
+**Features:**
 
-* Unity3D
-
-Features:
+* Smart multiresolution
 
 * NGUI Interface
 
-* In-App purchase
-
-* Leaderboard and achievements
-
-* Rate Box
-
-* Social sharing
+* iOS/Android compatible: In-App purchase, Leaderboard, Achievements, Rate Box, Social sharing, AdMob banners
 
 * Internationalization, 3 languages.
 
-* Automatic switching between iOS and Android versions in Unity editor, which have a significant differences.
+---
 
-* AdMob banners
+
+####["Unroll me" variation *(Unity, iOS, Android)*](/works/unroll_me_variation.html)
+
+[ ![ ]({{ site.JB.work_prev_path }}/UnrollMePreview.png) ](/works/unroll_me_variation.html)
+
+**My part:**
+
+* Programming, Technical art
+
+**Technology:**
+
+* Unity, NGUI
+
+**Features**
+
+* Fully completed, but has a technical art and unpublished
+
+* Handy Level Editor
+
+* NGUI interface
+
+---
+
+
+####[Spunky vs Aliens mobile *(Unity, iOS, Android)*](/works/spunky_vs_aliens_mobile.html)
+
+[ ![ ]({{ site.JB.work_prev_path }}/SpunkyMobilePreview.png) ](/works/spunky_vs_aliens_mobile.html)
+
+**My part:**
+
+* Programming, Converting from flash game
+
+**Technology:**
+
+* Unity, NGUI
+
+**Features**
+
+* Fully completed, but not yet published
+
+* Smart multiresolution
+
+* 3d engine
+
+* Performance optimization
+
+* Ingame Shop, 3 big bosses, 15 kinds of enemies.
+
+---
+
+<br>
+
+---
+
+### Other technologies:
 
 ---
 
@@ -82,26 +124,13 @@ collect all ingredients for the fruit soup. Use the elements of the environment 
 and do not eat the chilli peppers – they are very hot. Watch the fruits attentively, otherwise they can be eaten
 by hungry pigs. Collect the stars to earn more points. Good luck!
 
-My part:
+**My part:**
 
-* Idea
+* Idea, Management, Game-design, Programming
 
-* Management
+**Technology:**
 
-* Game-design
-
-* Programming
-
-
-Technology:
-
-* Adobe AIR
-
-* Starling
-
-* Nape
-
-* Citrus Engine
+* Adobe AIR, Starling, Nape, Citrus Engine
 
 ---
 
@@ -115,7 +144,7 @@ of sheep to hit perfect pitch…and collect musical notes along your journey. Ge
 but beware of dangerous red bubbles, which can wake you up. Perfect your aim, because
 there’s no way back down: the only way is up.
 
-My part:
+**My part:**
 
 * Half of the Idea
 
@@ -123,7 +152,7 @@ My part:
 
 * Programming
 
-Technology:
+**Technology:**
 
 * Adobe Flash
 
@@ -131,7 +160,7 @@ Technology:
 
 ---
 
-####[Surprize *(social)*](/works/surprize.html)
+####[Surprize *(flash social)*](/works/surprize.html)
 
 [ ![ ]({{ site.JB.work_prev_path }}/SurprizePreview.png) ](/works/surprize.html)
 
@@ -141,7 +170,7 @@ This is amazing app where users could send each other gifts which could be open 
 In the most loaded days, it was on the 3rd place by popularity in entire network, with 1.3 million unique daily users.
 And the first place by growth rate.
 
-My part:
+**My part:**
 
 * Idea
 
@@ -153,7 +182,7 @@ My part:
 
 * Hi-load server optimization
 
-Technology:
+**Technology:**
 
 * Adobe Flash
 
@@ -169,6 +198,11 @@ Technology:
 
 <br>
 
-| [ ![ ]({{ site.JB.work_prev_path }}/BraveBoyPreview.png) ](/works/brave_boy.html) | [ ![ ]({{ site.JB.work_prev_path }}/BackToAlienPartyPreview.png) ](/works/back_to_alien_party.html) | [ ![ ]({{ site.JB.work_prev_path }}/SpunkyVsAliensPreview.png) ](/works/spunky_vs_aliens.html) |
-| [ ![ ]({{ site.JB.work_prev_path }}/AppleCannonPreview.png) ](/works/apple_cannon.html) | [ ![ ]({{ site.JB.work_prev_path }}/CannonHeroPreview.png) ]({{ site.url }}/works/cannon_hero.html) | [ ![ ]({{ site.JB.work_prev_path }}/HungryBearPreview.png) ](/works/hungry_bear.html) |
-| [ ![ ]({{ site.JB.work_prev_path }}/CaptainZorroPreview.png) ]({{ site.url }}/works/captain_zorro.html) | [ ![ ]({{ site.JB.work_prev_path }}/FragileVasePreview.png) ]({{ site.url }}/works/fragile_vase.html) | ... |
+[ ![ ]({{ site.JB.work_prev_path }}/BraveBoyPreview.png) ](/works/brave_boy.html)
+[ ![ ]({{ site.JB.work_prev_path }}/BackToAlienPartyPreview.png) ](/works/back_to_alien_party.html)
+[ ![ ]({{ site.JB.work_prev_path }}/SpunkyVsAliensPreview.png) ](/works/spunky_vs_aliens.html)
+[ ![ ]({{ site.JB.work_prev_path }}/AppleCannonPreview.png) ](/works/apple_cannon.html)
+[ ![ ]({{ site.JB.work_prev_path }}/CannonHeroPreview.png) ]({{ site.url }}/works/cannon_hero.html)
+[ ![ ]({{ site.JB.work_prev_path }}/HungryBearPreview.png) ](/works/hungry_bear.html)
+[ ![ ]({{ site.JB.work_prev_path }}/CaptainZorroPreview.png) ]({{ site.url }}/works/captain_zorro.html)
+[ ![ ]({{ site.JB.work_prev_path }}/FragileVasePreview.png) ]({{ site.url }}/works/fragile_vase.html)

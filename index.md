@@ -4,7 +4,7 @@ title: Welcome!
 ---
 {% include JB/setup %}
 
-#### [Go to the portfolio right now! ]({{ site.url }}/works/)
+[Go to the **PORTFOLIO** right now! ]({{ site.url }}/works/)
 
 ---
 
