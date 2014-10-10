@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f122658-9e47-4eca-8cbf-45bbdcac0db8" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Dropbox\Work\1g0rrr.github.io\assets\works\SaveUkraineMainMenu.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="DELETED" beforePath="D:\Dropbox\Work\1g0rrr.github.io\works\save_ukraine.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/index.md" afterPath="$PROJECT_DIR$/works/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Dropbox\Work\1g0rrr.github.io\works\save_ukraine.md" afterPath="$PROJECT_DIR$/works/undefined_attack.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works/undefined_attack.md" afterPath="$PROJECT_DIR$/works/undefined_attack.md" />
     </list>
     <ignored path="1g0rrr.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,7 +64,7 @@
     <file path="$PROJECT_DIR$/_site/lessons/2011/12/29/jekyll-introduction/index.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <file path="$PROJECT_DIR$/_site/works/back_to_alien_party.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
     <file path="$PROJECT_DIR$/_site/works/apple_cannon.html" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412015819775" ignored="false" />
-    <file path="/undefined_attack.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412928140809" ignored="false" />
+    <file path="/undefined_attack.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412931578863" ignored="false" />
     <file path="/unroll_me_variation.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412928676903" ignored="false" />
     <file path="/spunky_vs_aliens_mobile.md" changelist="2f122658-9e47-4eca-8cbf-45bbdcac0db8" time="1412930186703" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,28 +86,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="12" selection-start="3165" selection-end="3165" vertical-scroll-proportion="0.0">
+            <state line="49" column="11" selection-start="794" selection-end="794" vertical-scroll-proportion="0.53103447">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="22" selection-start="83" selection-end="83" vertical-scroll-proportion="0.11724138">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spunky_vs_aliens_mobile.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/spunky_vs_aliens_mobile.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="66" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
+            <state line="6" column="22" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,24 +108,6 @@
         <entry file="file://$PROJECT_DIR$/works/spunky_vs_aliens.md">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="97" selection-start="360" selection-end="415" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="unroll_me_variation.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/unroll_me_variation.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="15" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="undefined_attack.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works/undefined_attack.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -172,11 +142,11 @@
         <option value="$PROJECT_DIR$/contacts.md" />
         <option value="$PROJECT_DIR$/works/save_ukraine.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/works/undefined_attack.md" />
         <option value="$PROJECT_DIR$/works/unroll_me_variation.md" />
         <option value="$PROJECT_DIR$/works/spunky_vs_aliens_mobile.md" />
-        <option value="$PROJECT_DIR$/works/index.md" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/works/undefined_attack.md" />
+        <option value="$PROJECT_DIR$/works/index.md" />
       </list>
     </option>
   </component>
@@ -665,16 +635,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/undefined_attack.md">
+    <entry file="file://$PROJECT_DIR$/works/spunky_vs_aliens_mobile.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+        <state line="45" column="66" selection-start="726" selection-end="726" vertical-scroll-proportion="0.86636466">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/works/unroll_me_variation.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="15" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+        <state line="9" column="15" selection-start="124" selection-end="124" vertical-scroll-proportion="0.17327294">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works/undefined_attack.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="670" selection-end="681" vertical-scroll-proportion="0.6738392">
           <folding />
         </state>
       </provider>
@@ -686,23 +663,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works/spunky_vs_aliens_mobile.md">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="66" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
+        <state line="6" column="22" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/works/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="12" selection-start="3165" selection-end="3165" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="83" selection-end="83" vertical-scroll-proportion="0.11724138">
+        <state line="49" column="11" selection-start="794" selection-end="794" vertical-scroll-proportion="0.53103447">
           <folding />
         </state>
       </provider>

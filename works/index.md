@@ -47,6 +47,8 @@ FragileVasePreview.png
 
 **Features:**
 
+* Published
+
 * Smart multiresolution
 
 * NGUI Interface

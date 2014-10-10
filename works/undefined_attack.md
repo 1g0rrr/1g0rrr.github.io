@@ -33,6 +33,8 @@ such “shell” can neutralize few of those soldiers or even an armored truck.
 
 **Features:**
 
+* Published
+
 * Smart multiresolution
 
 * NGUI Interface
