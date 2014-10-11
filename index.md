@@ -1,59 +1,171 @@
 ---
 layout: page
-title: Welcome!
+title: Добро пожаловать!
 ---
 {% include JB/setup %}
 
-[Go to the **PORTFOLIO** right now! ]({{ site.url }}/works/)
+[Перейти к **ПОРТФОЛИО** прямо сейчас! ]({{ site.url }}/works/)
 
 ---
 
-####Hello!
-![That's me]({{ site.url }}/assets/about/small_photo.jpg)
+![Это я]({{ site.url }}/assets/about/small_photo.jpg)
 <br> <br>
-My name is Igor. I'm born in 1987, and I live in Kiev, Ukraine.
-After graduation, I developed games and applications for social networks, online, mobile devices for over 7+ years.
-You can [contact]({{ site.url }}/contacts.html) me if you need my help.
+###Привет!
+Меня зовут Игорь. Я родился в 1987г. в "городе-герое" Славянске. Сейчас я живу в г.**Киев**, Украина.
 
-You can check out my works in the [Portfolio]({{ site.url }}/works/)
+После окончания университета, я разрабатывал игры и приложения для социальных сетей, онлайн порталов, мобильных
+устройств всё время до сегодняшнего дня.
+
+Вы можете [связаться]({{ site.url }}/contacts.html) со мной, если вы заинтересованы в каком-либо виде сотрудничества.
+
+Вы можете оценить мои работы в [Портфолио]({{ site.url }}/works/)
+
+<br>
+<br>
+
+###Резюме
 
 <br>
 
-####Resume/C.V.
+####Желаемая должность:
 
+Готов заниматься этим:
 
-7+ years of online, mobile games and social apps development experience.
+* **Unity Developer (C#)**,
+* **Game-designer**,
+* **Game-dev Project-manager**
 
-* Development of flash online games from begining to end (programming, game-design, management of technical, art and music specialists, etc)
-* Development of iOS & Android games based on AIR technology (programming, game-design, management)
-* Development of iOS & Android games based on Unity3d technology
-* Development of social network apps from begining to end (Idea, Server side, front end, UI, management etc. Max unique users in one of my app - 1.3 million / day )
-
-<br>
-
-#####My advantages
-I got used to pay attention to such aspects as, convenience of use, appearance, gameability and the atmosphere (if it is a game)
-I got used to think of all application as a whole and to think of that how people will use it.
-I made almost all of the projects for myself and therefore I will do your project as my own too.
+У меня есть желание принимать участие в создании качественных и интересных продуктов, которые будут известны всему миру,
+про которые можно будет сказать - вот это действительно круто! И не так важно на какой должности в этом учавствовать.
 
 <br>
 
-#####Professional skills:
+####Образование:
+
+* Донецкий Национальный Университет<br>
+Прикладная математика. Специалист.<br>
+2004 - 2009 гг.
+
+* Курсы администрирования Linux<br>
+2009г. ( пол года )
+
+* Донецкое Художественное Училище<br>
+Подготовительные курсы к поступлению<br>
+2013г. ( пол года )
+
+<br>
+
+Знание языков:
+
+* Русский - родной
+
+* Украинский - свободно владею
+
+* Английский - чтение профессиональной литературы, базовое общение
+
+<br>
+
+####Опыт работы:
+
+<hr>
+
+Сентябрь 2013 — по настоящее время (один год)
+
+* **Разработчик Unity3D. Менеджер. Гейм-дизайнер**
+
+* Частное предприятие (Indie)
+
+* Обязанности
+  * Программирование: C#, Unity3D
+  * Разработка идеи, гейм-дизайн
+  * Менеджмент фриланс-художников, музыкантов.
+
+<hr>
+
+Январь 2012 — январь 2013 (один год)
+
+* **Создание студии разработки игр. Менеджер. Flash разработчик. Гейм-дизайнер**
+
+* Собственная студия
+
+* Обязанности
+  * Менеджмент работы программистов (2 человека в подчинении)
+  * Менеджмент фриланс-художников, музыкантов.
+  * Разработка идеи, гейм-дизайн
+  * Программирование. Flash, AS3, AIR, Box2D, Nape
+
+<hr>
+
+Январь 2011 — июнь 2012 (один год+)
+
+* **Разработчик Flash игр. Менеджер. Гейм-дизайнер**
+
+* Частное предприятие (Indie)
+
+* Обязанности
+  * Разработка идеи, гейм-дизайн
+  * Организация процесса разработки, менеджмент. Работа с художниками, музыкантами и др.
+  * Программирование Flash, AS3, AIR, Box2D, Nape, и др.
+
+<hr>
+
+Январь 2009 — январь 2011 (два+ года)
+
+* **Разработчик приложений для социальной сети ВКонтакте**
+
+* Частное предприятие (Indie)
+
+* Обязанности:
+  * Разработка идеи и позиционирования
+  * Программирование Front-end: Flash, AS3
+  * Программирование Back-End: PHP, MySQL
+  * Оптимизация высоких нагрузок: linux administration, memcache, nginx<br>
+    До 1.3 млн посетителей в день.
+  * Менеджмент фриланс-художников
+
+<hr>
+
+Июль 2008 - Январь 2009 (пол года)
+
+* **Ruby on Rails программист**
+
+* Web-студия "Fresh Lime Studio"
+
+<hr>
+
+Январь 2007 - Декабрь 2008 (пол года)
+
+* **PHP программист**.
+
+* Web-студия "Zveno"
+
+<hr>
+
+####Ключевые навыки
 * AS3 & Adobe Flash
 * AIR
 * Unity3d (C#)
 * php & highload
-* Game design
 * Art & Usability
 * Command Leading
+* Game design
 
 <br>
 
-#####Education
+####Обо мне
+* Считаю своим плюсом - видеть проект игры в целом, не только узкую программную часть, но также могу оценить и
+прочувствовать играбельность, качество графики, удобство и т.п.
+* Регулярно посещяю конференцию DevGAMM с 2010 года.
+* Ценю красоту в играх и в окрущающих предметах, люблю продукты Apple.
+* Сознательно избегаю работы в отдельных видах гейм-индустрии, чтобы не заразиться созданием шаблонных и бездушных игр.
+* Не боюсь организовывать работу других людей, составлять наглядные технические задания, общаться и т.д.
+* Есть опыт создания своей студии, мотивации сотрудников, найма и корректного увольнения.
 
-* Donetsk Art School<br>
-(half year)
+<br>
 
-* Donetsk National University<br>
-Specialist in Applied Mathematics<br>
-(2004 - 2009)
+####Контакты
+Читаю все письма, поэтому можете смело писать на этот адрес:
+[1g0rrr.my@gmail.com](mailto:1g0rrr.my@gmail.com)
+
+<br>
+
