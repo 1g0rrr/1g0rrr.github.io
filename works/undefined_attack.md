@@ -10,7 +10,7 @@ tags : [work, games]
 
 Android: [Google Play]( https://play.google.com/store/apps/details?id=com.xdapps.su )
 
-AppStore: Under review
+iOS:  [AppStore]( https://itunes.apple.com/us/app/undefined-attack/id922067076 )
 
 ---
 
@@ -20,16 +20,13 @@ Unidentified horde of armed men suddenly attacked a cozy house. The inhabitants 
 only weapon to defend their homeland they had was just a crop of old pumpkins. Nevertheless, a good and precise hit of
 such “shell” can neutralize few of those soldiers or even an armored truck.
 
-
-
-
 **My part:**
 
 * Idea, Management, Game-design, Programming
 
 **Technology:**
 
-* Unity3D
+* Unity, NGUI
 
 **Features:**
 
@@ -39,19 +36,9 @@ such “shell” can neutralize few of those soldiers or even an armored truck.
 
 * NGUI Interface
 
-* In-App purchase
-
-* Leaderboard and achievements
-
-* Rate Box
-
-* Social sharing
+* iOS/Android compatible: In-App purchase, Leaderboard, Achievements, Rate Box, Social sharing, AdMob banners
 
 * Internationalization, 3 languages.
-
-* Automatic switching between iOS and Android versions in Unity editor, which have a significant differences.
-
-* AdMob banners
 
 ---
 

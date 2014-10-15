@@ -26,9 +26,9 @@ CaptainZorroPreview.png
 FragileVasePreview.png
 -->
 
----
+<br>
 
-### Unity:
+# Unity:
 
 ---
 
@@ -113,7 +113,7 @@ FragileVasePreview.png
 
 ---
 
-### Other technologies:
+# Other technologies:
 
 ---
 
@@ -196,7 +196,7 @@ And the first place by growth rate.
 
 ---
 
-###Other:
+#Other:
 
 <br>
 
