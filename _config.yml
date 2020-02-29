@@ -7,9 +7,7 @@ highlighter: null
 
 #markdown: kramdown
 #, "fenced_code_blocks"
-#markdown: redcarpet
-#redcarpet:
-#  extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
+
 
 languages: []
 
