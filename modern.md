@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modern
+title: Modern1
 group: navigation
 tagline: Supporting tagline
 ---
